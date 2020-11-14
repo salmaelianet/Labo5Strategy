@@ -1,0 +1,13 @@
+C:\Users\salma\OneDrive\Escritorio\ArquiSoft\Labo5\Labo5\bin\Debug\netcoreapp3.1\Labo5.exe
+C:\Users\salma\OneDrive\Escritorio\ArquiSoft\Labo5\Labo5\bin\Debug\netcoreapp3.1\Labo5.deps.json
+C:\Users\salma\OneDrive\Escritorio\ArquiSoft\Labo5\Labo5\bin\Debug\netcoreapp3.1\Labo5.runtimeconfig.json
+C:\Users\salma\OneDrive\Escritorio\ArquiSoft\Labo5\Labo5\bin\Debug\netcoreapp3.1\Labo5.runtimeconfig.dev.json
+C:\Users\salma\OneDrive\Escritorio\ArquiSoft\Labo5\Labo5\bin\Debug\netcoreapp3.1\Labo5.dll
+C:\Users\salma\OneDrive\Escritorio\ArquiSoft\Labo5\Labo5\bin\Debug\netcoreapp3.1\Labo5.pdb
+C:\Users\salma\OneDrive\Escritorio\ArquiSoft\Labo5\Labo5\obj\Debug\netcoreapp3.1\Labo5.csprojAssemblyReference.cache
+C:\Users\salma\OneDrive\Escritorio\ArquiSoft\Labo5\Labo5\obj\Debug\netcoreapp3.1\Labo5.AssemblyInfoInputs.cache
+C:\Users\salma\OneDrive\Escritorio\ArquiSoft\Labo5\Labo5\obj\Debug\netcoreapp3.1\Labo5.AssemblyInfo.cs
+C:\Users\salma\OneDrive\Escritorio\ArquiSoft\Labo5\Labo5\obj\Debug\netcoreapp3.1\Labo5.csproj.CoreCompileInputs.cache
+C:\Users\salma\OneDrive\Escritorio\ArquiSoft\Labo5\Labo5\obj\Debug\netcoreapp3.1\Labo5.dll
+C:\Users\salma\OneDrive\Escritorio\ArquiSoft\Labo5\Labo5\obj\Debug\netcoreapp3.1\Labo5.pdb
+C:\Users\salma\OneDrive\Escritorio\ArquiSoft\Labo5\Labo5\obj\Debug\netcoreapp3.1\Labo5.genruntimeconfig.cache
